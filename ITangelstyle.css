@@ -7,19 +7,19 @@ background-color:black;
 }
 @font-face{
     font-family: Roboto;
-    src: url(font/Roboto-Medium.ttf);
+    src: url(Roboto-Medium.ttf);
 }
 @font-face{
     font-family: RobotoL;
-    src: url(font/Roboto-Light.ttf);
+    src: url(Roboto-Light.ttf);
 }
 @font-face{
     font-family: RobotoB;
-    src: url(font/Roboto-Bold.ttf);
+    src: url(Roboto-Bold.ttf);
 }
 @font-face{
     font-family: RobotoT;
-    src: url(font/Roboto-Thin.ttf);
+    src: url(Roboto-Thin.ttf);
 }
 
 .one {
