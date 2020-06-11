@@ -1,0 +1,51 @@
+body {
+background-color:black;
+}
+.logo {
+    width: 100%;
+    object-position: center;
+}
+@font-face{
+    font-family: Roboto;
+    src: url(font/Roboto-Medium.ttf);
+}
+@font-face{
+    font-family: RobotoL;
+    src: url(font/Roboto-Light.ttf);
+}
+@font-face{
+    font-family: RobotoB;
+    src: url(font/Roboto-Bold.ttf);
+}
+@font-face{
+    font-family: RobotoT;
+    src: url(font/Roboto-Thin.ttf);
+}
+
+.one {
+    position: relative;
+    top: 150%;
+    left: 18%;
+}
+.two {
+    position: relative;
+    top: 150%;
+    left: 37.8%;
+}
+.three {
+    position: relative;
+    top: 150%;
+    left: 58%;
+}
+button {
+    color: white;
+    font-family: RobotoT;
+    font-size: 200%;
+    padding: 0;
+    border: none;
+    background: none;
+}
+button:hover {
+    transition-delay: 2s;
+    font-family: RobotoL;
+}
